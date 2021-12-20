@@ -1,7 +1,8 @@
 [submodule "amundsengremlin"]
 	path = amundsengremlin
-	url = https://github.com/amundsen-io/amundsengremlin
+	url = ssh://git@github.com:22/amundsen-io/amundsengremlin
 	branch = master
 [submodule "amundsenrds"]
 	path = amundsenrds
-	url = https://github.com/amundsen-io/amundsenrds.git
+	url = ssh://git@github.com:22/amundsen-io/amundsenrds.git
+
